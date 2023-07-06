@@ -1,4 +1,6 @@
 # ChatBreakdown
+
+Video demo: https://youtu.be/22ipGKR-pKo    (Website is no longer up due to server costs)
 The main code for the backend of the project is shown here.
 
 app_static uses tmi.js to collect the chat messages and their associated data, as well as user bans and timeouts.
